@@ -1,0 +1,22 @@
+/**
+ * Lay-out for CiviMiniMal
+ */
+
+.region-sidebar-first {
+  display: block;
+  width: 220px;
+  margin: 0px;
+  padding-right: 20px;
+}
+
+.region-content {
+  width: 100%;
+  display: table-cell;
+  vertical-align: top;
+}
+
+.content-wrapper {
+  width: 100%;
+  display: table;
+  margin: 0;
+}
